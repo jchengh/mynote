@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "embedded notes/硬件基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "硬件基础"
             }
           }
         ]
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "002a039814c1c446",
+  "active": "c6eeacead2c97c10",
   "lastOpenFiles": [
     "embedded notes/C语言.md",
     "README.md",
