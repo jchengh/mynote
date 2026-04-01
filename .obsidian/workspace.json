@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b133bcc7299bea9",
+  "active": "c336ad805626e098",
   "lastOpenFiles": [
     "README.md",
     "embedded notes/C语言/C语言.md",
