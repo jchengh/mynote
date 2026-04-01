@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "模拟电子技术讲义.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -198,14 +198,14 @@
   },
   "active": "c6eeacead2c97c10",
   "lastOpenFiles": [
-    "C语言程序设计讲义.md",
+    "README.md",
     "模拟电子技术讲义.md",
+    "C语言程序设计讲义.md",
     "FastAPI教程.md",
     "C语言程序设计.md",
     "embedded notes/C语言/C语言.md",
     "新建文件夹",
     "embedded notes/C语言/assets/C语言/file-20260401122923437.png",
-    "README.md",
     "embedded notes/硬件基础/硬件基础.md",
     "embedded notes/硬件基础/assets/硬件基础",
     "embedded notes/硬件基础/assets/硬件基础/file-20260401125105018.png",
