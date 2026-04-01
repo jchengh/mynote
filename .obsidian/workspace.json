@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubuntu讲义.md",
+                "file": "EPLAN讲义.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ubuntu讲义"
+              "title": "EPLAN讲义"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ubuntu讲义.md",
+                "file": "EPLAN讲义.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ubuntu讲义 的大纲"
+              "title": "EPLAN讲义 的大纲"
             }
           },
           {
@@ -198,8 +198,9 @@
   },
   "active": "c6eeacead2c97c10",
   "lastOpenFiles": [
-    "模拟电子技术讲义.md",
     "Ubuntu讲义.md",
+    "EPLAN讲义.md",
+    "模拟电子技术讲义.md",
     "README.md",
     "C语言程序设计讲义.md",
     "FastAPI教程.md",
