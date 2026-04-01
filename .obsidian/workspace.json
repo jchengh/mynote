@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded notes/硬件基础/assets/硬件基础.md",
+                "file": "embedded notes/硬件基础/硬件基础.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,9 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6eeacead2c97c10",
+  "active": "002a039814c1c446",
   "lastOpenFiles": [
-    "embedded notes/硬件基础/assets/assets/硬件基础/file-20260401125044695.png",
+    "embedded notes/硬件基础/assets/硬件基础",
+    "embedded notes/硬件基础/assets/硬件基础/file-20260401125105018.png",
     "embedded notes/硬件基础/assets/assets/硬件基础",
     "embedded notes/硬件基础/assets/assets",
     "embedded notes/C语言/assets/C语言",
@@ -204,7 +205,7 @@
     "embedded notes/C语言/assets/C语言/file-20260401122923437.png",
     "embedded notes/assets/硬件基础/file-20260331222208148.png",
     "embedded notes/assets/硬件基础/file-20260331222209379.png",
-    "embedded notes/硬件基础/assets/硬件基础.md",
+    "embedded notes/硬件基础/硬件基础.md",
     "embedded notes/C语言/C语言.md",
     "README.md",
     "新建 文本文档.txt",
@@ -225,7 +226,6 @@
     "c语言/assets/士大夫感到附属国/file-20260331221720598.png",
     "c语言/assets/士大夫感到附属国/file-20260331221719959.png",
     "c语言/assets/士大夫感到附属国/file-20260331221719289.png",
-    "未命名/assets/未命名/file-20260331221645300.png",
     "c语言/欢迎.md",
     "c语言/C语言.md",
     "c语言/hello123.md",
