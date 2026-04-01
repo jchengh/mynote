@@ -53,7 +53,7 @@
     }
   ],
   "pandocPath": {
-    "win32": "E:\\Desktop\\Example\\mynote\\pandoc-3.9.0.2-windows-x86_64\\pandoc-3.9.0.2"
+    "win32": "E:\\Desktop\\Example\\mynote\\pandoc-3.9.0.2-windows-x86_64\\pandoc-3.9.0.2\\pandoc.exe"
   },
   "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
@@ -62,5 +62,5 @@
   "lastExportDirectory": {
     "win32": "E:\\Desktop"
   },
-  "lastExportType": "Html"
+  "lastExportType": "Word (.docx)"
 }
