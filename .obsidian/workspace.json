@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模拟电子技术讲义.md",
-                "mode": "source",
+                "file": "Ubuntu讲义.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "模拟电子技术讲义"
+              "title": "Ubuntu讲义"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模拟电子技术讲义.md",
+                "file": "Ubuntu讲义.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "模拟电子技术讲义 的大纲"
+              "title": "Ubuntu讲义 的大纲"
             }
           },
           {
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -198,8 +199,9 @@
   },
   "active": "c6eeacead2c97c10",
   "lastOpenFiles": [
-    "README.md",
     "模拟电子技术讲义.md",
+    "Ubuntu讲义.md",
+    "README.md",
     "C语言程序设计讲义.md",
     "FastAPI教程.md",
     "C语言程序设计.md",
