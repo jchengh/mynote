@@ -52,6 +52,9 @@
       "name": "PowerPoint (.pptx)"
     }
   ],
+  "pandocPath": {
+    "win32": "E:\\Desktop\\Example\\mynote\\pandoc-3.9.0.2-windows-x86_64\\pandoc-3.9.0.2"
+  },
   "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
   "env": {},
