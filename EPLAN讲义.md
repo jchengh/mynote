@@ -1836,4 +1836,135 @@ EPLAN支持复杂的多层项目结构：
 
 ---
 
+# 学习资源推荐
+
+## 视频教程
+
+### 推荐视频课程
+
+| 教程名称 | 来源 | BV号 | 难度 | 链接 |
+|---------|------|------|------|------|
+| EPLAN电气设计速成 | Bilibili | BV1ue411Y7QE | 入门 | [点击观看](https://www.bilibili.com/video/BV1ue411Y7QE/) |
+| EPLAN Electric P8 全套教程 | Bilibili | BV1u4411q7oG | 入门→进阶 | [点击观看](https://www.bilibili.com/video/BV1u4411q7oG/) |
+| EPLAN电气设计教学 | Bilibili | BV1Jh4y177Tp | 入门 | [点击观看](https://www.bilibili.com/video/BV1Jh4y177Tp/) |
+| EPLAN第1课-如何快速学会 | Bilibili | BV1NL411X7Vs | 入门 | [点击观看](https://www.bilibili.com/video/BV1NL411X7Vs/) |
+| EPLAN Electric P8 (Udemy英文) | Bilibili | BV1yk4y1374r | 入门→进阶 | [点击观看](https://www.bilibili.com/video/BV1yk4y1374r/) |
+| EPLAN绘图技巧-宏导入部件库 | Bilibili | BV1abRfY8EGj | 进阶 | [点击观看](https://www.bilibili.com/video/BV1abRfY8EGj/) |
+
+### 推荐播放列表
+
+| 课程名称 | 内容 | 链接 |
+|---------|------|------|
+| EPLAN电气绘图软件教程 | 全88集综合教程 | [点击观看](https://www.bilibili.com/video/BV1vuXQYVEwP/) |
+
+## 文档教程
+
+### 免费文档
+
+| 资源名称 | 来源 | 说明 |
+|---------|------|------|
+| EPLAN P8 中文入门手册 | Scribd | 126页入门指南，可在线阅读或下载 |
+| EPLAN高级教程（第一部分）| book118 | 进阶内容，PDF格式 |
+| EPLAN 教程目录（中译版）| Scribd | 教程大纲目录 |
+| EPLAN电气设计基础与应用 | 新阅读 | 图书PDF版本 |
+| EPLAN 快速入门教程 | CSDN/GitCode | 免费下载 |
+
+### 下载资源
+
+| 资源 | 链接 |
+|------|------|
+| ELEOK论坛-EPLAN教程和安装包 | https://doc.eleok.com/1071.html |
+| EPLAN快速入门教程下载 | https://blog.csdn.net/gitblog_06738/article/details/147586726 |
+| Scribd-EPLAN P8中文入门手册 | https://www.scribd.com/document/719988183 |
+| book118-EPLAN高级教程PDF | https://m.book118.com/html/2019/0206/7150004061002005.shtm |
+
+## 官方资源
+
+| 资源 | 链接 |
+|------|------|
+| EPLAN官网 | https://www.eplan.com.cn |
+| EPLAN帮助文档 | https://www.eplan.help/zh-cn |
+| EPLAN Academy培训 | EPLAN官方培训课程（收费） |
+
+## 推荐学习路线
+
+```
+入门阶段（约1-2周）：
+│
+├─ 1. 观看入门视频（推荐 BV1ue411Y7QE）
+│      └─ 了解软件界面和基本操作
+│
+├─ 2. 跟着教程创建第一个项目
+│      └─ 实践项目创建和保存
+│
+├─ 3. 练习绘制简单原理图
+│      └─ 插入符号、连接导线
+│
+└─ 4. 学习基础操作
+        ├─ 符号插入与编辑
+        ├─ 设备属性设置
+        └─ 简单接线图绘制
+
+进阶阶段（约2-4周）：
+│
+├─ 1. 学习符号库和部件管理
+│      └─ 创建和管理部件库
+│
+├─ 2. 练习PLC设计和端子排
+│      └─ PLC配置、地址分配
+│
+├─ 3. 学习报表生成
+│      └─ BOM表、接线表等
+│
+└─ 4. 练习完整的项目设计
+        └─ 从项目规划到图纸输出
+
+高级阶段（约1-2个月）：
+│
+├─ 1. 宏和模板定制
+│      └─ 创建自定义宏和模板
+│
+├─ 2. 企业标准化设计
+│      └─ 建立设计规范
+│
+├─ 3. 数据交换和协同
+│      └─ 与其他软件数据对接
+│
+└─ 4. 项目实战
+        └─ 独立完成实际项目设计
+```
+
+## 常用网站
+
+| 网站名称 | 类型 | 链接 |
+|---------|------|------|
+| 电气CAD吧 | 论坛/教程 | https://www.cad-bbs.cn |
+| ELEOK工控网 | 论坛/资源 | https://www.eleok.com |
+| 工控网 | 论坛 | https://www.gongkong.com |
+| CSDN EPLAN专栏 | 技术博客 | CSDN搜索EPLAN |
+
+## 学习技巧
+
+### 1. 实践为主
+- 看视频时跟着操作
+- 每个功能都要亲手实践
+- 遇到问题先尝试解决
+
+### 2. 善用帮助
+- EPLAN帮助文档非常详细（F1键）
+- 搜索功能强大
+- 官方教程质量高
+
+### 3. 项目驱动
+- 找实际项目练习
+- 从简单项目开始
+- 逐步增加复杂度
+
+### 4. 交流学习
+- 加入EPLAN学习群
+- 参与论坛讨论
+- 向有经验的工程师请教
+
+---
+
 *本讲义基于EPLAN Electric P8软件编写，适合电气工程技术人员学习使用。*
