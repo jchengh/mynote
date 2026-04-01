@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "embedded notes/C语言/C语言.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "C语言"
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c336ad805626e098",
+  "active": "c6eeacead2c97c10",
   "lastOpenFiles": [
     "README.md",
     "embedded notes/C语言/C语言.md",
