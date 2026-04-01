@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "embedded notes/assets/硬件基础/file-20260331222208148.png"
+                "file": "embedded notes/assets/C语言/file-20260331222129328.png"
               },
               "icon": "lucide-image",
-              "title": "file-20260331222208148"
+              "title": "file-20260331222129328"
             }
           }
         ]
@@ -194,11 +194,11 @@
   },
   "active": "c6eeacead2c97c10",
   "lastOpenFiles": [
+    "embedded notes/assets/硬件基础/file-20260331222208148.png",
     "embedded notes/assets/硬件基础/file-20260331222209379.png",
     "embedded notes/assets/C语言/file-20260331222129328.png",
     "embedded notes/硬件基础.md",
     "embedded notes/C语言.md",
-    "embedded notes/assets/硬件基础/file-20260331222208148.png",
     "README.md",
     "新建 文本文档.txt",
     "hello.txt",
