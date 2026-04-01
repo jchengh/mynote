@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c336ad805626e098",
+  "active": "3b133bcc7299bea9",
   "lastOpenFiles": [
+    "README.md",
+    "embedded notes/C语言/C语言.md",
     "embedded notes/硬件基础/硬件基础.md",
     "embedded notes/硬件基础/assets/硬件基础",
     "embedded notes/硬件基础/assets/硬件基础/file-20260401125105018.png",
@@ -207,8 +208,6 @@
     "embedded notes/C语言/assets/C语言/file-20260401122923437.png",
     "embedded notes/assets/硬件基础/file-20260331222208148.png",
     "embedded notes/assets/硬件基础/file-20260331222209379.png",
-    "embedded notes/C语言/C语言.md",
-    "README.md",
     "新建 文本文档.txt",
     "hello.txt",
     "1.txt",
