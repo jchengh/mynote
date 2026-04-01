@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +144,7 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
-                "followCursor": false,
+                "file": "embedded notes/C语言/C语言.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "C语言 的大纲"
             }
           },
           {
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6eeacead2c97c10",
+  "active": "c336ad805626e098",
   "lastOpenFiles": [
     "embedded notes/硬件基础/硬件基础.md",
     "embedded notes/硬件基础/assets/硬件基础",
