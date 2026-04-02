@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPLAN讲义.md",
+                "file": "数字电路讲义.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "EPLAN讲义"
+              "title": "数字电路讲义"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPLAN讲义.md",
+                "file": "数字电路讲义.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "EPLAN讲义 的大纲"
+              "title": "数字电路讲义 的大纲"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,9 +196,10 @@
       "webpage-html-export:导出为HTML": false
     }
   },
-  "active": "c336ad805626e098",
+  "active": "3b133bcc7299bea9",
   "lastOpenFiles": [
     "EPLAN讲义.md",
+    "数字电路讲义.md",
     "Ubuntu讲义.md",
     "模拟电子技术讲义.md",
     "README.md",
