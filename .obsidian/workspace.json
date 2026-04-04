@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言程序设计讲义.md",
+                "file": "01-C语言.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "C语言程序设计讲义 的大纲"
+              "title": "01-C语言 的大纲"
             }
           },
           {
@@ -196,15 +196,16 @@
       "webpage-html-export:导出为HTML": false
     }
   },
-  "active": "c6eeacead2c97c10",
+  "active": "002a039814c1c446",
   "lastOpenFiles": [
+    "C语言程序设计讲义.md",
+    "01-C语言.pdf",
     "C语言程序设计.md",
     "数字电路讲义.md",
     "EPLAN讲义.md",
     "Ubuntu讲义.md",
     "模拟电子技术讲义.md",
     "README.md",
-    "C语言程序设计讲义.md",
     "FastAPI教程.md",
     "embedded notes/C语言/C语言.md",
     "新建文件夹",
@@ -221,7 +222,6 @@
     "新建 文本文档.txt",
     "hello.txt",
     "1.txt",
-    "embedded notes/硬件基础",
     "未命名.md",
     "未命名/未命名 2.md",
     "未命名/未命名 1.md",
