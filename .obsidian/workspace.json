@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,11 +196,12 @@
       "webpage-html-export:导出为HTML": false
     }
   },
-  "active": "c6eeacead2c97c10",
+  "active": "c336ad805626e098",
   "lastOpenFiles": [
+    "xv6-中文翻译-betteryuan.md",
+    "C语言程序设计讲义.md",
     "EPLAN讲义.md",
     "C语言程序设计.md",
-    "C语言程序设计讲义.md",
     "C语言零基础到入门完整版讲义.md",
     "01-C语言.pdf",
     "数字电路讲义.md",
